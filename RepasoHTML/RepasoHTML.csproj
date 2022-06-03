@@ -67,7 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="admin\productos.html" />
+    <Content Include="client\consultas.html" />
     <Content Include="css\main.css" />
+    <Content Include="images\paisaje.jpg" />
     <Content Include="images\pi-favicon.gif" />
     <Content Include="index.html" />
     <Content Include="jq\bootstrap\bootstrap-icons.min.css" />
